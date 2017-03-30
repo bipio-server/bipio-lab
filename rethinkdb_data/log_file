@@ -1,0 +1,81 @@
+2015-05-18T03:37:11.145349000 0.007468s notice: Recursively removing directory /Users/alfonso/Projects/bipio-lab/rethinkdb_data/tmp
+2015-05-18T03:37:11.146262000 0.008384s notice: Initializing directory /Users/alfonso/Projects/bipio-lab/rethinkdb_data
+2015-05-18T03:37:11.146322000 0.008440s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/alfonso/Projects/bipio-lab/rethinkdb_data' did not already exist or is empty.)
+2015-05-18T03:37:11.146335000 0.008453s notice: Running rethinkdb 2.0.1 (CLANG 4.2 (clang-425.0.28))...
+2015-05-18T03:37:11.149921000 0.012039s notice: Running on Darwin 14.3.0 x86_64
+2015-05-18T03:37:11.149955000 0.012073s notice: Loading data from directory /Users/alfonso/Projects/bipio-lab/rethinkdb_data
+2015-05-18T03:37:11.293984000 0.156102s info: Automatically using cache size of 479 MB
+2015-05-18T03:37:11.299281000 0.161399s notice: Listening for intracluster connections on port 29015
+2015-05-18T03:37:11.299965000 0.162083s notice: Listening for client driver connections on port 28015
+2015-05-18T03:37:11.300071000 0.162189s notice: Listening for administrative HTTP connections on port 8080
+2015-05-18T03:37:11.303605000 0.165723s notice: Listening on addresses: 127.0.0.1, 10.0.1.21, ::1, fd8c:30e1:3de7:735c:592:aa8f:86f:f647, fe80::1%1, fe80::592:aa8f:86f:f647%10, fe80::82e6:50ff:fe00:1f58%4, fe80::9040:e9ff:fe94:ea0b%8
+2015-05-18T03:37:11.303615000 0.165733s notice: Server ready, "MacBook_Pro_de_Alfonso_local_9yv" edf80551-cd0b-4238-beaa-db2326302277
+2015-05-18T03:38:01.936768000 50.796828s notice: Server got SIGINT from pid 498, uid 501; shutting down...
+2015-05-18T03:38:01.936915000 50.796975s notice: Shutting down client connections...
+2015-05-18T03:38:01.937051000 50.797111s notice: All client connections closed.
+2015-05-18T03:38:01.937059000 50.797118s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-05-18T03:38:01.937505000 50.797564s notice: Storage engine shut down.
+2015-05-18T03:38:05.201594000 0.011876s notice: Running rethinkdb 2.0.1 (CLANG 4.2 (clang-425.0.28))...
+2015-05-18T03:38:05.209179000 0.019460s notice: Running on Darwin 14.3.0 x86_64
+2015-05-18T03:38:05.209275000 0.019552s notice: Loading data from directory /Users/alfonso/Projects/bipio-lab/rethinkdb_data
+2015-05-18T03:38:05.264350000 0.074629s info: Automatically using cache size of 490 MB
+2015-05-18T03:38:05.264844000 0.075122s error: TCP socket creation failed for port 29015: Address already in use.
+2015-05-18T03:39:00.026196000 0.007164s notice: Running rethinkdb 2.0.1 (CLANG 4.2 (clang-425.0.28))...
+2015-05-18T03:39:00.030326000 0.011294s notice: Running on Darwin 14.3.0 x86_64
+2015-05-18T03:39:00.030518000 0.011484s notice: Loading data from directory /Users/alfonso/Projects/bipio-lab/rethinkdb_data
+2015-05-18T03:39:00.069918000 0.050882s info: Automatically using cache size of 490 MB
+2015-05-18T03:39:00.070510000 0.051475s notice: Listening for intracluster connections on port 29015
+2015-05-18T03:39:00.070991000 0.051956s notice: Listening for client driver connections on port 28015
+2015-05-18T03:39:00.071055000 0.052019s notice: Listening for administrative HTTP connections on port 8080
+2015-05-18T03:39:00.071056000 0.052021s notice: Listening on addresses: 127.0.0.1, ::1
+2015-05-18T03:39:00.071059000 0.052023s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-05-18T03:39:00.071061000 0.052025s notice: Server ready, "MacBook_Pro_de_Alfonso_local_9yv" edf80551-cd0b-4238-beaa-db2326302277
+2015-05-18T12:40:33.598953000 11259.056910s notice: Server got SIGINT from pid 498, uid 501; shutting down...
+2015-05-18T12:40:33.599054000 11259.057010s notice: Shutting down client connections...
+2015-05-18T12:40:33.599170000 11259.057126s notice: All client connections closed.
+2015-05-18T12:40:33.599175000 11259.057130s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-05-18T12:40:33.606699000 11259.064655s notice: Storage engine shut down.
+2015-05-18T12:40:37.048642000 0.523095s notice: Running rethinkdb 2.0.1 (CLANG 4.2 (clang-425.0.28))...
+2015-05-18T12:40:37.055791000 0.530241s notice: Running on Darwin 14.3.0 x86_64
+2015-05-18T12:40:37.055889000 0.530336s notice: Loading data from directory /Users/alfonso/Projects/bipio-lab/rethinkdb_data
+2015-05-18T12:40:37.173814000 0.648197s info: Automatically using cache size of 100 MB
+2015-05-18T12:40:37.173830000 0.648213s warn: Cache size does not leave much memory for server and query overhead (available memory: 878 MB).
+2015-05-18T12:40:37.173837000 0.648220s warn: Cache size is very low and may impact performance.
+2015-05-18T12:40:37.174478000 0.648861s notice: Listening for intracluster connections on port 29015
+2015-05-18T12:40:37.177908000 0.652293s notice: Listening for client driver connections on port 28015
+2015-05-18T12:40:37.178209000 0.652593s notice: Listening for administrative HTTP connections on port 8080
+2015-05-18T12:40:37.178217000 0.652600s notice: Listening on addresses: 127.0.0.1, ::1
+2015-05-18T12:40:37.178221000 0.652604s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-05-18T12:40:37.178226000 0.652608s notice: Server ready, "MacBook_Pro_de_Alfonso_local_9yv" edf80551-cd0b-4238-beaa-db2326302277
+2015-05-18T12:47:25.182364000 408.640402s notice: Server got SIGINT from pid 498, uid 501; shutting down...
+2015-05-18T12:47:25.182497000 408.640535s notice: Shutting down client connections...
+2015-05-18T12:47:25.182703000 408.640741s notice: All client connections closed.
+2015-05-18T12:47:25.182708000 408.640745s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-05-18T12:47:25.202630000 408.660669s notice: Storage engine shut down.
+2015-05-18T12:47:33.331714000 0.518665s notice: Running rethinkdb 2.0.1 (CLANG 4.2 (clang-425.0.28))...
+2015-05-18T12:47:33.339925000 0.526862s notice: Running on Darwin 14.3.0 x86_64
+2015-05-18T12:47:33.339979000 0.526914s notice: Loading data from directory /Users/alfonso/Projects/bipio-lab/rethinkdb_data
+2015-05-18T12:47:33.385799000 0.572734s info: Automatically using cache size of 100 MB
+2015-05-18T12:47:33.385807000 0.572742s warn: Cache size does not leave much memory for server and query overhead (available memory: 754 MB).
+2015-05-18T12:47:33.385813000 0.572747s warn: Cache size is very low and may impact performance.
+2015-05-18T12:47:33.390189000 0.577124s notice: Listening for intracluster connections on port 29015
+2015-05-18T12:47:33.390796000 0.577731s notice: Listening for client driver connections on port 28015
+2015-05-18T12:47:33.390888000 0.577823s notice: Listening for administrative HTTP connections on port 8080
+2015-05-18T12:47:33.403022000 0.589957s notice: Listening on addresses: 127.0.0.1, 172.16.1.33, ::1, fd8c:30e1:3de7:735c:592:aa8f:86f:f647, fe80::1%1, fe80::592:aa8f:86f:f647%10, fe80::82e6:50ff:fe00:1f58%4, fe80::9040:e9ff:fe94:ea0b%8
+2015-05-18T12:47:33.403029000 0.589964s notice: Server ready, "MacBook_Pro_de_Alfonso_local_9yv" edf80551-cd0b-4238-beaa-db2326302277
+2015-05-18T12:50:47.056771000 194.235921s notice: Server got SIGINT from pid 498, uid 501; shutting down...
+2015-05-18T12:50:47.056873000 194.236022s notice: Shutting down client connections...
+2015-05-18T12:50:47.056972000 194.236121s notice: All client connections closed.
+2015-05-18T12:50:47.056977000 194.236126s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-05-18T12:50:47.062331000 194.241480s notice: Storage engine shut down.
+2015-05-18T12:54:21.988710000 0.509353s notice: Running rethinkdb 2.0.1 (CLANG 4.2 (clang-425.0.28))...
+2015-05-18T12:54:21.995946000 0.516585s notice: Running on Darwin 14.3.0 x86_64
+2015-05-18T12:54:21.996414000 0.517053s notice: Loading data from directory /Users/alfonso/Projects/bipio-lab/rethinkdb_data
+2015-05-18T12:54:22.085826000 0.606465s info: Automatically using cache size of 100 MB
+2015-05-18T12:54:22.085835000 0.606473s warn: Cache size does not leave much memory for server and query overhead (available memory: 785 MB).
+2015-05-18T12:54:22.085840000 0.606478s warn: Cache size is very low and may impact performance.
+2015-05-18T12:54:22.090911000 0.611550s notice: Listening for intracluster connections on port 29015
+2015-05-18T12:54:22.091664000 0.612303s notice: Listening for client driver connections on port 28015
+2015-05-18T12:54:22.091840000 0.612479s notice: Listening for administrative HTTP connections on port 8080
+2015-05-18T12:54:22.097525000 0.618164s notice: Listening on addresses: 127.0.0.1, 172.16.1.33, ::1, fd8c:30e1:3de7:735c:592:aa8f:86f:f647, fe80::1%1, fe80::592:aa8f:86f:f647%10, fe80::82e6:50ff:fe00:1f58%4, fe80::9040:e9ff:fe94:ea0b%8
+2015-05-18T12:54:22.097534000 0.618173s notice: Server ready, "MacBook_Pro_de_Alfonso_local_9yv" edf80551-cd0b-4238-beaa-db2326302277
