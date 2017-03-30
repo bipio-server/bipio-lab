@@ -1,6 +1,6 @@
 {
   "name": "bipio-lab",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "R&D and prototyping repository for bip.io",
   "main": "index.js",
   "scripts": {
