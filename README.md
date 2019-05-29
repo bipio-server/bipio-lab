@@ -1,3 +1,4 @@
+# **NOTICE:** This repository has been **DEPRECATED**. Do not use.
 # bipio-lab
 R&amp;D and prototyping repository for bip.io
 
